@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import plotly.express as px
-st.title("Hello! This is Streamlit")
 
 # Load your CSV file
 df = pd.read_csv('PSales.csv')
